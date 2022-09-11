@@ -7,3 +7,11 @@
 
 </div>
 
+### Este projeto é a criação de um jogo da velha.
+
+<p> 
+    <img width="640" height="360" src="src/jogovelha.gif" >
+</p>
+
+
+
